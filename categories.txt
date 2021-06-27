@@ -1,0 +1,250 @@
+airplane
+alarm clock
+angel
+ant
+anvil
+apple
+arm
+axe
+backpack
+banana
+bandage
+baseball
+baseball bat
+basket
+basketball
+bat
+bathtub
+beard
+bed
+bee
+belt
+bench
+binoculars
+bird
+birthday cake
+book
+boomerang
+bottlecap
+bowtie
+bracelet
+brain
+bread
+bridge
+broom
+bucket
+bush
+butterfly
+cactus
+cake
+calculator
+calendar
+camera
+candle
+carrot
+ceiling fan
+cell phone
+chair
+circle
+clock
+cloud
+coffee cup
+compass
+computer
+cookie
+couch
+crayon
+crown
+cup
+diamond
+diving board
+donut
+door
+drums
+dumbbell
+ear
+elbow
+envelope
+eraser
+eye
+eyeglasses
+face
+fan
+feather
+fence
+finger
+fire hydrant
+fireplace
+fish
+flashlight
+flip flops
+floor lamp
+flower
+flying saucer
+foot
+fork
+frying pan
+giraffe
+golf club
+grapes
+grass
+guitar
+hamburger
+hammer
+hand
+harp
+hat
+headphones
+hedgehog
+helicopter
+helmet
+hexagon
+hockey puck
+hockey stick
+horse
+hospital
+hot air balloon
+hot dog
+hot tub
+hourglass
+house
+hurricane
+ice cream
+jacket
+jail
+kangaroo
+key
+keyboard
+knee
+knife
+ladder
+lantern
+laptop
+leaf
+leg
+light bulb
+lightning
+line
+lipstick
+lollipop
+mailbox
+map
+marker
+matches
+microphone
+microwave
+moon
+mosquito
+mountain
+moustache
+mouth
+mug
+mushroom
+nail
+necklace
+nose
+ocean
+octagon
+octopus
+onion
+oven
+owl
+paintbrush
+paint can
+palm tree
+panda
+pants
+paper clip
+parachute
+parrot
+passport
+peanut
+pear
+peas
+pencil
+piano
+picture frame
+pig
+pillow
+pineapple
+pizza
+pliers
+pond
+pool
+popsicle
+postcard
+potato
+power outlet
+purse
+radio
+rain
+rainbow
+rake
+remote control
+rifle
+river
+sailboat
+sandwich
+saw
+scissors
+screwdriver
+see saw
+shoe
+shorts
+shovel
+skateboard
+skull
+smiley face
+snake
+snorkel
+snowflake
+snowman
+soccer ball
+sock
+spider
+spoon
+spreadsheet
+square
+squiggle
+squirrel
+stairs
+star
+stereo
+stethoscope
+stitches
+stop sign
+strawberry
+streetlight
+suitcase
+sun
+sweater
+sword
+syringe
+table
+teapot
+telephone
+television
+tennis racquet
+tent
+The Eiffel Tower
+toaster
+toe
+tooth
+toothbrush
+toothpaste
+tornado
+traffic light
+train
+tree
+triangle
+t-shirt
+umbrella
+underwear
+vase
+watermelon
+waterslide
+wheel
+windmill
+wine glass
+wristwatch
+zigzag
