@@ -18,10 +18,11 @@ class QuickDraw:
 	def check(self, image, category):
 		image = base64.b64decode(image)
 		image = Image.open(io.BytesIO(image)).convert('L').resize((28, 28))
-		# image.show()
 		image = np.array(image).reshape(28,28,1).astype('float32')/255.0
 		prediction = self.model.predict(np.expand_dims(image, axis=0))[0]
 		ind = (-prediction).argsort()[:5]
 		result = [ self.classes[x] for x in ind]
-		print(result)
-		return category in result
+		try:
+			return result.index(category)+1
+		except ValueError:
+			return 0

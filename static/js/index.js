@@ -56,7 +56,15 @@ function submit(mode) {
 				})
 			}).then(res => res.json())
 			.then(response => {
-				document.getElementById('result').innerHTML = response['result']
+				const result = [
+					'<span class="text-danger">Failed</span>',
+					'<span class="text-success">Perfect!</span>',
+					'<span class="text-success">Excellent</span>',
+					'<span class="text-warning">Very Good</span>',
+					'<span class="text-warning">Good</span>',
+					'<span class="text-warning">Average</span>'
+				][response['result']]
+				document.getElementById('result').innerHTML = result
 				resolve()
 			})
 		}
